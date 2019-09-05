@@ -10,6 +10,7 @@
         <li>kick (expulsa um usuário do servidor) <em>!kick @user motivo</em></li>
     </ul>
 
+![Leaf Bot Discord](https://media.discordapp.net/attachments/565950114775040026/619085182271488011/Screenshot_4.png)
 
 <p>Créditos ao canal <a href="https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA">Menu Docs</a> pelo command handler</p>
 
