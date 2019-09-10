@@ -54,4 +54,12 @@ client.on("message", async message => {
     if (commandfile) commandfile.run(client,message,args)
 });
 
+client.on("guildMemberAdd", (member) => {
+    member.guild.channels.find(channel => channel.name === "bonjour").send(`**${member.user.tag}** entrou no servidor !`);
+})
+
+client.on("guildMemberRemove", (member) => {
+    member.guild.channels.find(channel => channel.name === "bonvoyage").send(`**${member.user.tag}** saiu no servidor...`);
+})
+
 client.login(config.token);
