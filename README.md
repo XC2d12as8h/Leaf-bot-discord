@@ -19,5 +19,9 @@
         <li>guildMemberRemove (Faz algo quando alguem sai do servidor)</li>
     </ul>
 
+<h2>Setup (em breve...)</h2>
+
+<h2>Créditos</h2>
+
 <p>Créditos ao canal <a href="https://www.youtube.com/channel/UCpGGFqJP9vYvzFudqnQ-6IA">Menu Docs</a> pelo command handler</p>
 
