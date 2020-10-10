@@ -20,6 +20,7 @@ module.exports.run = async (client, message, args) => {
         }
     
     message.member.addRole(colorrole.id);
+    message.channel.send(`O cargo ${colorrole} foi criado com sucesso e você ${message.author} recebeu ele.`);
 }
 
 module.exports.config = {
