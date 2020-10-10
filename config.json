@@ -1,6 +1,6 @@
 {
     "token": "token",
     "prefix": "!",
-    "owner_name": "name",
-    "owner_id": "id"
+    "owner_name": "",
+    "owner_id": ""
 }
